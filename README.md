@@ -9,4 +9,4 @@ Matching which means that it's in the correct position
 
 This version of wordle is slightly different
 
-To compile just do g++ Main.cpp.
+To compile just compile Main.cpp with your favorite C++ compiler
